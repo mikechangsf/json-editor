@@ -1,0 +1,748 @@
+--2017-04-07 21:01:28--  http://user=mike&password=os74acfw/
+Resolving user=mike&password=os74acfw (user=mike&password=os74acfw)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘user=mike&password=os74acfw’
+--2017-04-07 21:01:28--  http://1m1m.sramanamitra.com/wp-login.php
+Resolving 1m1m.sramanamitra.com (1m1m.sramanamitra.com)... 173.255.118.175
+Connecting to 1m1m.sramanamitra.com (1m1m.sramanamitra.com)|173.255.118.175|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49490 (48K) [text/html]
+Saving to: ‘1m1m.sramanamitra.com/wp-login.php’
+
+     0K .......... .......... .......... .......... ........  100%  228K=0.2s
+
+2017-04-07 21:01:30 (228 KB/s) - ‘1m1m.sramanamitra.com/wp-login.php’ saved [49490/49490]
+
+Loading robots.txt; please ignore errors.
+--2017-04-07 21:01:30--  http://1m1m.sramanamitra.com/robots.txt
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 35 [text/plain]
+Saving to: ‘1m1m.sramanamitra.com/robots.txt’
+
+     0K                                                       100% 4.77M=0s
+
+2017-04-07 21:01:30 (4.77 MB/s) - ‘1m1m.sramanamitra.com/robots.txt’ saved [35/35]
+
+--2017-04-07 21:01:30--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/style.css
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 29624 (29K) [text/css]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/style.css’
+
+     0K .......... .......... ........                        100%  445K=0.06s
+
+2017-04-07 21:01:30 (445 KB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/style.css’ saved [29624/29624]
+
+--2017-04-07 21:01:30--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-scroll/css/smoothDivScroll.css
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 866 [text/css]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-scroll/css/smoothDivScroll.css’
+
+     0K                                                       100% 82.6M=0s
+
+2017-04-07 21:01:30 (82.6 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-scroll/css/smoothDivScroll.css’ saved [866/866]
+
+--2017-04-07 21:01:30--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-lightbox/jquery.fancybox.css
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3882 (3.8K) [text/css]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-lightbox/jquery.fancybox.css’
+
+     0K ...                                                   100% 65.0M=0s
+
+2017-04-07 21:01:30 (65.0 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-lightbox/jquery.fancybox.css’ saved [3882/3882]
+
+--2017-04-07 21:01:30--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/css/responsive.css
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10330 (10K) [text/css]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/css/responsive.css’
+
+     0K ..........                                            100% 60.8M=0s
+
+2017-04-07 21:01:30 (60.8 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/css/responsive.css’ saved [10330/10330]
+
+--2017-04-07 21:01:30--  http://1m1m.sramanamitra.com/wp-content/plugins/wordpress-file-monitor/wordpress-file-monitor.php?ver=scan
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/html]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/wordpress-file-monitor/wordpress-file-monitor.php?ver=scan’
+
+     0K                                                        0.00 =0s
+
+2017-04-07 21:01:30 (0.00 B/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/wordpress-file-monitor/wordpress-file-monitor.php?ver=scan’ saved [0/0]
+
+--2017-04-07 21:01:30--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/css/font-awesome.min.css?ver=4.0.16
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 26711 (26K) [text/css]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/css/font-awesome.min.css?ver=4.0.16’
+
+     0K .......... .......... ......                          100% 3.44M=0.007s
+
+2017-04-07 21:01:30 (3.44 MB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/css/font-awesome.min.css?ver=4.0.16’ saved [26711/26711]
+
+--2017-04-07 21:01:30--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/css/bootstrap.css?ver=4.0.16
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 169937 (166K) [text/css]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/css/bootstrap.css?ver=4.0.16’
+
+     0K .......... .......... .......... .......... .......... 30%  415K 0s
+    50K .......... .......... .......... .......... .......... 60%  666K 0s
+   100K .......... .......... .......... .......... .......... 90%  621K 0s
+   150K .......... .....                                      100%  255K=0.3s
+
+2017-04-07 21:01:31 (490 KB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/css/bootstrap.css?ver=4.0.16’ saved [169937/169937]
+
+--2017-04-07 21:01:31--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/css/front.css?ver=4.0.16
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 47869 (47K) [text/css]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/css/front.css?ver=4.0.16’
+
+     0K .......... .......... .......... .......... ......    100%  577K=0.08s
+
+2017-04-07 21:01:31 (577 KB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/css/front.css?ver=4.0.16’ saved [47869/47869]
+
+--2017-04-07 21:01:31--  http://1m1m.sramanamitra.com/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=4.0.16
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1018 [text/css]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=4.0.16’
+
+     0K                                                       100% 12.6M=0s
+
+2017-04-07 21:01:31 (12.6 MB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=4.0.16’ saved [1018/1018]
+
+--2017-04-07 21:01:31--  http://1m1m.sramanamitra.com/wp-includes/js/jquery/jquery.js?ver=1.11.1
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 95807 (94K) [application/x-javascript]
+Saving to: ‘1m1m.sramanamitra.com/wp-includes/js/jquery/jquery.js?ver=1.11.1’
+
+     0K .......... .......... .......... .......... .......... 53%  623K 0s
+    50K .......... .......... .......... .......... ...       100%  553K=0.2s
+
+2017-04-07 21:01:31 (588 KB/s) - ‘1m1m.sramanamitra.com/wp-includes/js/jquery/jquery.js?ver=1.11.1’ saved [95807/95807]
+
+--2017-04-07 21:01:31--  http://1m1m.sramanamitra.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7200 (7.0K) [application/x-javascript]
+Saving to: ‘1m1m.sramanamitra.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1’
+
+     0K .......                                               100%  221M=0s
+
+2017-04-07 21:01:31 (221 MB/s) - ‘1m1m.sramanamitra.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1’ saved [7200/7200]
+
+--2017-04-07 21:01:31--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min.js?ver=4.0.16
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 35955 (35K) [application/x-javascript]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min.js?ver=4.0.16’
+
+     0K .......... .......... .......... .....                100% 3.36M=0.01s
+
+2017-04-07 21:01:31 (3.36 MB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min.js?ver=4.0.16’ saved [35955/35955]
+
+--2017-04-07 21:01:31--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/js/front.js?ver=4.0.16
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 5332 (5.2K) [application/x-javascript]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/js/front.js?ver=4.0.16’
+
+     0K .....                                                 100% 1.68M=0.003s
+
+2017-04-07 21:01:31 (1.68 MB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/js/front.js?ver=4.0.16’ saved [5332/5332]
+
+--2017-04-07 21:01:31--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/js/chosen.jquery.min.js?ver=4.0.16
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 52163 (51K) [application/x-javascript]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/js/chosen.jquery.min.js?ver=4.0.16’
+
+     0K .......... .......... .......... .......... .......... 98%  547K 0s
+    50K                                                       100% 18.8K=0.09s
+
+2017-04-07 21:01:31 (557 KB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/js/chosen.jquery.min.js?ver=4.0.16’ saved [52163/52163]
+
+--2017-04-07 21:01:31--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/js/jquery-1.8.3.js
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 92994 (91K) [application/x-javascript]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/js/jquery-1.8.3.js’
+
+     0K .......... .......... .......... .......... .......... 55%  587K 0s
+    50K .......... .......... .......... ..........           100%  549K=0.2s
+
+2017-04-07 21:01:32 (569 KB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/js/jquery-1.8.3.js’ saved [92994/92994]
+
+--2017-04-07 21:01:32--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/js/jquery.form.js
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12953 (13K) [application/x-javascript]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/js/jquery.form.js’
+
+     0K .......... ..                                         100% 1.01M=0.01s
+
+2017-04-07 21:01:32 (1.01 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/js/jquery.form.js’ saved [12953/12953]
+
+--2017-04-07 21:01:32--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/js/jquery-ui-1.8.20.custom.min.js
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10622 (10K) [application/x-javascript]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/js/jquery-ui-1.8.20.custom.min.js’
+
+     0K ..........                                            100% 95.6M=0s
+
+2017-04-07 21:01:32 (95.6 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/js/jquery-ui-1.8.20.custom.min.js’ saved [10622/10622]
+
+--2017-04-07 21:01:32--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/js/jquery.coda-slider-3.0.min.js
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 9254 (9.0K) [application/x-javascript]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/js/jquery.coda-slider-3.0.min.js’
+
+     0K .........                                             100% 2.16M=0.004s
+
+2017-04-07 21:01:32 (2.16 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/js/jquery.coda-slider-3.0.min.js’ saved [9254/9254]
+
+--2017-04-07 21:01:32--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/wait.gif
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 404 [image/gif]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/wait.gif’
+
+     0K                                                       100% 38.5M=0s
+
+2017-04-07 21:01:32 (38.5 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/wait.gif’ saved [404/404]
+
+--2017-04-07 21:01:32--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/36.gif
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2883 (2.8K) [image/gif]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/36.gif’
+
+     0K ..                                                    100% 83.3M=0s
+
+2017-04-07 21:01:32 (83.3 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/36.gif’ saved [2883/2883]
+
+--2017-04-07 21:01:32--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/POSTCARD.jpg
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 130339 (127K) [image/jpeg]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/POSTCARD.jpg’
+
+     0K .......... .......... .......... .......... .......... 39%  485K 0s
+    50K .......... .......... .......... .......... .......... 78%  586K 0s
+   100K .......... .......... .......                         100%  248K=0.3s
+
+2017-04-07 21:01:32 (426 KB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/POSTCARD.jpg’ saved [130339/130339]
+
+--2017-04-07 21:01:32--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/1m1m_cartoon.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 20366 (20K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/1m1m_cartoon.png’
+
+     0K .......... .........                                  100% 3.35M=0.006s
+
+2017-04-07 21:01:33 (3.35 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/1m1m_cartoon.png’ saved [20366/20366]
+
+--2017-04-07 21:01:33--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/menubg.jpg
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 308 [image/jpeg]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/menubg.jpg’
+
+     0K                                                       100% 22.6M=0s
+
+2017-04-07 21:01:33 (22.6 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/menubg.jpg’ saved [308/308]
+
+--2017-04-07 21:01:33--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/wrapbg.jpg
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 385 [image/jpeg]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/wrapbg.jpg’
+
+     0K                                                       100% 21.6M=0s
+
+2017-04-07 21:01:33 (21.6 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/wrapbg.jpg’ saved [385/385]
+
+--2017-04-07 21:01:33--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/banner.jpg
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 42503 (42K) [image/jpeg]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/banner.jpg’
+
+     0K .......... .......... .......... .......... .         100% 2.30M=0.02s
+
+2017-04-07 21:01:33 (2.30 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/banner.jpg’ saved [42503/42503]
+
+--2017-04-07 21:01:33--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/vid.jpg
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 31305 (31K) [image/jpeg]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/vid.jpg’
+
+     0K .......... .......... ..........                      100% 2.65M=0.01s
+
+2017-04-07 21:01:33 (2.65 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/vid.jpg’ saved [31305/31305]
+
+--2017-04-07 21:01:33--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/join.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3879 (3.8K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/join.png’
+
+     0K ...                                                   100%  699K=0.005s
+
+2017-04-07 21:01:33 (699 KB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/join.png’ saved [3879/3879]
+
+--2017-04-07 21:01:33--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/email.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3513 (3.4K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/email.png’
+
+     0K ...                                                   100%  539K=0.006s
+
+2017-04-07 21:01:33 (539 KB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/email.png’ saved [3513/3513]
+
+--2017-04-07 21:01:33--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/footer.jpg
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 330 [image/jpeg]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/footer.jpg’
+
+     0K                                                       100% 26.2M=0s
+
+2017-04-07 21:01:33 (26.2 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/footer.jpg’ saved [330/330]
+
+--2017-04-07 21:01:33--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/hand.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 97134 (95K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/hand.png’
+
+     0K .......... .......... .......... .......... .......... 52%  701K 0s
+    50K .......... .......... .......... .......... ....      100% 1.12M=0.1s
+
+2017-04-07 21:01:33 (858 KB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/hand.png’ saved [97134/97134]
+
+--2017-04-07 21:01:33--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/blog.jpg
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 63180 (62K) [image/jpeg]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/blog.jpg’
+
+     0K .......... .......... .......... .......... .......... 81% 1.29M 0s
+    50K .......... .                                          100%  185K=0.1s
+
+2017-04-07 21:01:33 (610 KB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/blog.jpg’ saved [63180/63180]
+
+--2017-04-07 21:01:33--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/midvideo.jpg
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 30934 (30K) [image/jpeg]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/midvideo.jpg’
+
+     0K .......... .......... ..........                      100% 3.72M=0.008s
+
+2017-04-07 21:01:34 (3.72 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/midvideo.jpg’ saved [30934/30934]
+
+--2017-04-07 21:01:34--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/pict.jpg
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 115502 (113K) [image/jpeg]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/pict.jpg’
+
+     0K .......... .......... .......... .......... .......... 44% 2.46M 0s
+    50K .......... .......... .......... .......... .......... 88%  578K 0s
+   100K .......... ..                                         100% 1.50M=0.1s
+
+2017-04-07 21:01:34 (983 KB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/pict.jpg’ saved [115502/115502]
+
+--2017-04-07 21:01:34--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/signbanner.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1158 (1.1K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/signbanner.png’
+
+     0K .                                                     100%  123M=0s
+
+2017-04-07 21:01:34 (123 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/signbanner.png’ saved [1158/1158]
+
+--2017-04-07 21:01:34--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/profile.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3740 (3.7K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/profile.png’
+
+     0K ...                                                   100% 4.54M=0.001s
+
+2017-04-07 21:01:34 (4.54 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/profile.png’ saved [3740/3740]
+
+--2017-04-07 21:01:34--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/loginbanner.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1187 (1.2K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/loginbanner.png’
+
+     0K .                                                     100%  547K=0.002s
+
+2017-04-07 21:01:34 (547 KB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/loginbanner.png’ saved [1187/1187]
+
+--2017-04-07 21:01:34--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/logout.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4288 (4.2K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/logout.png’
+
+     0K ....                                                  100% 1.66M=0.002s
+
+2017-04-07 21:01:34 (1.66 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/logout.png’ saved [4288/4288]
+
+--2017-04-07 21:01:34--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/searchbtn.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3934 (3.8K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/searchbtn.png’
+
+     0K ...                                                   100% 98.7M=0s
+
+2017-04-07 21:01:34 (98.7 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/searchbtn.png’ saved [3934/3934]
+
+--2017-04-07 21:01:34--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/next.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 137 [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/next.png’
+
+     0K                                                       100% 7.26M=0s
+
+2017-04-07 21:01:34 (7.26 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/next.png’ saved [137/137]
+
+--2017-04-07 21:01:34--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/prev.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 138 [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/prev.png’
+
+     0K                                                       100% 8.23M=0s
+
+2017-04-07 21:01:34 (8.23 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/prev.png’ saved [138/138]
+
+--2017-04-07 21:01:34--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/prev-h.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2963 (2.9K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/prev-h.png’
+
+     0K ..                                                    100%  354K=0.008s
+
+2017-04-07 21:01:34 (354 KB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/prev-h.png’ saved [2963/2963]
+
+--2017-04-07 21:01:34--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/next-h.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2972 (2.9K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/next-h.png’
+
+     0K ..                                                    100% 69.1M=0s
+
+2017-04-07 21:01:34 (69.1 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/next-h.png’ saved [2972/2972]
+
+--2017-04-07 21:01:34--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/buttonbg.jpg
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 12658 (12K) [image/jpeg]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/buttonbg.jpg’
+
+     0K .......... ..                                         100% 1.51M=0.008s
+
+2017-04-07 21:01:35 (1.51 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/buttonbg.jpg’ saved [12658/12658]
+
+--2017-04-07 21:01:35--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/emailico.jpg
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 13571 (13K) [image/jpeg]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/emailico.jpg’
+
+     0K .......... ...                                        100% 1.30M=0.01s
+
+2017-04-07 21:01:35 (1.30 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/emailico.jpg’ saved [13571/13571]
+
+--2017-04-07 21:01:35--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/signup.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4090 (4.0K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/signup.png’
+
+     0K ...                                                   100%  610K=0.007s
+
+2017-04-07 21:01:35 (610 KB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/signup.png’ saved [4090/4090]
+
+--2017-04-07 21:01:35--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/videthumb.jpg
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10142 (9.9K) [image/jpeg]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/videthumb.jpg’
+
+     0K .........                                             100% 82.0M=0s
+
+2017-04-07 21:01:35 (82.0 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/videthumb.jpg’ saved [10142/10142]
+
+--2017-04-07 21:01:35--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-scroll/images/leftslide.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 158 [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-scroll/images/leftslide.png’
+
+     0K                                                       100% 18.8M=0s
+
+2017-04-07 21:01:35 (18.8 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-scroll/images/leftslide.png’ saved [158/158]
+
+--2017-04-07 21:01:35--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-scroll/images/rightslide.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 157 [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-scroll/images/rightslide.png’
+
+     0K                                                       100% 10.7M=0s
+
+2017-04-07 21:01:35 (10.7 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-scroll/images/rightslide.png’ saved [157/157]
+
+--2017-04-07 21:01:35--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-lightbox/fancybox_sprite.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2277 (2.2K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-lightbox/fancybox_sprite.png’
+
+     0K ..                                                    100%  948K=0.002s
+
+2017-04-07 21:01:35 (948 KB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-lightbox/fancybox_sprite.png’ saved [2277/2277]
+
+--2017-04-07 21:01:35--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-lightbox/fancybox_loading.gif
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 3866 (3.8K) [image/gif]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-lightbox/fancybox_loading.gif’
+
+     0K ...                                                   100% 52.7M=0s
+
+2017-04-07 21:01:35 (52.7 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-lightbox/fancybox_loading.gif’ saved [3866/3866]
+
+--2017-04-07 21:01:35--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-lightbox/blank.gif
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 43 [image/gif]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-lightbox/blank.gif’
+
+     0K                                                       100% 3.42M=0s
+
+2017-04-07 21:01:35 (3.42 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/video-lightbox/blank.gif’ saved [43/43]
+
+--2017-04-07 21:01:35--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/log-in-mob.jpg
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4071 (4.0K) [image/jpeg]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/log-in-mob.jpg’
+
+     0K ...                                                   100% 1.11M=0.003s
+
+2017-04-07 21:01:35 (1.11 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/log-in-mob.jpg’ saved [4071/4071]
+
+--2017-04-07 21:01:35--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/sign-up-mob.jpg
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 4724 (4.6K) [image/jpeg]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/sign-up-mob.jpg’
+
+     0K ....                                                  100%  552K=0.008s
+
+2017-04-07 21:01:35 (552 KB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/sign-up-mob.jpg’ saved [4724/4724]
+
+--2017-04-07 21:01:35--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/logg-out-mob.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1752 (1.7K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/logg-out-mob.png’
+
+     0K .                                                     100%  152M=0s
+
+2017-04-07 21:01:36 (152 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/logg-out-mob.png’ saved [1752/1752]
+
+--2017-04-07 21:01:36--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/profile-mob.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1676 (1.6K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/profile-mob.png’
+
+     0K .                                                     100%  107M=0s
+
+2017-04-07 21:01:36 (107 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/profile-mob.png’ saved [1676/1676]
+
+--2017-04-07 21:01:36--  http://1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/select-arrow-down.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1007 [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/select-arrow-down.png’
+
+     0K                                                       100% 73.9M=0s
+
+2017-04-07 21:01:36 (73.9 MB/s) - ‘1m1m.sramanamitra.com/wp-content/themes/New-1M_by_1M/images/select-arrow-down.png’ saved [1007/1007]
+
+--2017-04-07 21:01:36--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.eot?v=4.4.0
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 68875 (67K) [application/vnd.ms-fontobject]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.eot?v=4.4.0’
+
+     0K .......... .......... .......... .......... .......... 74% 1.15M 0s
+    50K .......... .......                                    100%  442K=0.08s
+
+2017-04-07 21:01:36 (826 KB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.eot?v=4.4.0’ saved [68875/68875]
+
+--2017-04-07 21:01:36--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.eot?
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 68875 (67K) [application/vnd.ms-fontobject]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.eot?’
+
+     0K .......... .......... .......... .......... .......... 74% 1.04M 0s
+    50K .......... .......                                    100% 15.2M=0.05s
+
+2017-04-07 21:01:36 (1.37 MB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.eot?’ saved [68875/68875]
+
+--2017-04-07 21:01:36--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.woff2?v=4.4.0
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 64464 (63K) [application/x-font-woff]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.woff2?v=4.4.0’
+
+     0K .......... .......... .......... .......... .......... 79% 1.01M 0s
+    50K .......... ..                                         100% 1.80M=0.06s
+
+2017-04-07 21:01:36 (1.11 MB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.woff2?v=4.4.0’ saved [64464/64464]
+
+--2017-04-07 21:01:36--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.woff?v=4.4.0
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 81284 (79K) [application/x-font-woff]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.woff?v=4.4.0’
+
+     0K .......... .......... .......... .......... .......... 62% 1.83M 0s
+    50K .......... .......... .........                       100%  435K=0.09s
+
+2017-04-07 21:01:36 (843 KB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.woff?v=4.4.0’ saved [81284/81284]
+
+--2017-04-07 21:01:36--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.ttf?v=4.4.0
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 138204 (135K) [font/truetype]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.ttf?v=4.4.0’
+
+     0K .......... .......... .......... .......... .......... 37% 1.25M 0s
+    50K .......... .......... .......... .......... .......... 74%  641K 0s
+   100K .......... .......... .......... ....                 100% 2.75M=0.1s
+
+2017-04-07 21:01:37 (1.02 MB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.ttf?v=4.4.0’ saved [138204/138204]
+
+--2017-04-07 21:01:37--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.svg?v=4.4.0
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 355981 (348K) [image/svg+xml]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.svg?v=4.4.0’
+
+     0K .......... .......... .......... .......... .......... 14% 1.84M 0s
+    50K .......... .......... .......... .......... .......... 28% 1.10M 0s
+   100K .......... .......... .......... .......... .......... 43% 1.22M 0s
+   150K .......... .......... .......... .......... .......... 57%  841K 0s
+   200K .......... .......... .......... .......... .......... 71% 1.21M 0s
+   250K .......... .......... .......... .......... .......... 86% 1.00M 0s
+   300K .......... .......... .......... .......... .......   100%  820K=0.3s
+
+2017-04-07 21:01:37 (1.07 MB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/font-awesome/fonts/fontawesome-webfont.svg?v=4.4.0’ saved [355981/355981]
+
+--2017-04-07 21:01:37--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.eot
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 25259 (25K) [application/vnd.ms-fontobject]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.eot’
+
+     0K .......... .......... ....                            100% 1.37M=0.02s
+
+2017-04-07 21:01:37 (1.37 MB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.eot’ saved [25259/25259]
+
+--2017-04-07 21:01:37--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.eot?
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 25259 (25K) [application/vnd.ms-fontobject]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.eot?’
+
+     0K .......... .......... ....                            100%  700K=0.04s
+
+2017-04-07 21:01:37 (700 KB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.eot?’ saved [25259/25259]
+
+--2017-04-07 21:01:37--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 404 Not Found
+2017-04-07 21:01:37 ERROR 404: Not Found.
+
+--2017-04-07 21:01:37--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.woff
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 30342 (30K) [application/x-font-woff]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.woff’
+
+     0K .......... .......... .........                       100%  976K=0.03s
+
+2017-04-07 21:01:37 (976 KB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.woff’ saved [30342/30342]
+
+--2017-04-07 21:01:37--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 39806 (39K) [font/truetype]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf’
+
+     0K .......... .......... .......... ........             100% 1.03M=0.04s
+
+2017-04-07 21:01:38 (1.03 MB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf’ saved [39806/39806]
+
+--2017-04-07 21:01:38--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.svg
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 63157 (62K) [image/svg+xml]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.svg’
+
+     0K .......... .......... .......... .......... .......... 81% 1.15M 0s
+    50K .......... .                                          100% 1.91M=0.05s
+
+2017-04-07 21:01:38 (1.25 MB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/bootstrap/fonts/glyphicons-halflings-regular.svg’ saved [63157/63157]
+
+--2017-04-07 21:01:38--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/images/wpdm-settings.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1261 (1.2K) [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/images/wpdm-settings.png’
+
+     0K .                                                     100% 60.1M=0s
+
+2017-04-07 21:01:38 (60.1 MB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/images/wpdm-settings.png’ saved [1261/1261]
+
+--2017-04-07 21:01:38--  http://1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/images/plus.png
+Reusing existing connection to 1m1m.sramanamitra.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 463 [image/png]
+Saving to: ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/images/plus.png’
+
+     0K                                                       100% 31.5M=0s
+
+2017-04-07 21:01:38 (31.5 MB/s) - ‘1m1m.sramanamitra.com/wp-content/plugins/download-manager/assets/images/plus.png’ saved [463/463]
+
+FINISHED --2017-04-07 21:01:38--
+Total wall clock time: 9.9s
+Downloaded: 71 files, 2.1M in 2.8s (793 KB/s)

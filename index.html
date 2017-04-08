@@ -1,0 +1,52 @@
+<head>
+    <title>
+        Salon JSON-ator
+    </title>
+<style>
+    body {
+        margin: 2%;
+        font-family: Arial;
+        background: #F7971E;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #FFD200, #F7971E);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #FFD200, #F7971E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    }
+</style>
+</head>
+<body>
+
+<h1 style="color: #ffffff;">Salon JSON-ator</h1>
+<h2>What the heck is this?</h2>
+<p>
+    This is a web form that allows anyone to create a JSON that matches (mostly) with our Firebase database. It still
+    requires a little bit of validation/post-processing by an engineer. However, this allows generation of a JSON for a
+    new salon, new service for easy entry into our database.
+    <br/>This does not replace the development of the admin project. Only the database schema should serve as a
+    reference, not the UI itself.
+</p>
+
+
+<h2>To Manually Add a Salon</h2>
+<ol>
+    <li>Add a salon via <a href="salon_entry.html">Salon Entry</a> page by filling out the fields</li>
+    <li>Once done, get the raw JSON from the<a
+            href='https://www.dropbox.com/s/zw1z2pfbb7mx1d3/Screenshot%202017-04-07%2016.29.08.png?dl=0'> right side</a>.
+        Save this as new_salon_SALON_NAME.json
+    </li>
+    <li>Add the list of <a href="services_entry.html">Services Entry</a>. Note that in this form,</li>
+    <li>Like salon entry, get the raw JSON and save it as new_services_SALON_NAME.json</li>
+    <li>Send both files to an engineer for validation and entry</li>
+
+</ol>
+
+<h2>Differences between genereated JSON and Firebase</h2>
+<ul>
+    <li>The list of services is not supposed to be an array. It should be a 'Firebase Array', which is a list of objects
+        with unique keys
+    </li>
+    <li>
+        There's a bug with JSON-editor enumSource and integer. Salon-hours needs to be long (remove quote) and month of holiday needs to be long.
+    </li>
+</ul>
+
+</body>
